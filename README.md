@@ -1,5 +1,7 @@
 # CSharpCalculator
 
+A simple c# console calculator with CI
+
 In your project directory (where your .csproj file is located), run the following command to restore packages:
 
 
