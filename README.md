@@ -1,6 +1,6 @@
 # CSharpCalculator
 
-A simple c# console calculator with CI
+A simple c# console calculator to demonstrate CI
 
 ## Building and testing the project
 
