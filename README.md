@@ -1,7 +1,7 @@
 # CSharpCalculator
 
-A simple c# console calculator to demonstrate Continuous Integration via Github Workflow Action see .github/workflow.
-Each PR will trigger an action to build and tests the PR.
+A simple c# console calculator to demonstrate Continuous Integration via Github Workflow Action see .github/workflows.
+Each PR will trigger an action to build and tests the PR. This uses the Github's hosted machine to run the builds.
 
 ## Building and testing the project
 
